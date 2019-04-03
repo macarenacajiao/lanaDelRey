@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash|Oswald');
+body{
+	background:#222;
+}
+div{
+	text-align: center;
+}
+/*.logo{
+	height: 150px;
+}*/
+hr{
+	border: 1px solid #999;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	/*font-family: 'Berkshire Swash', cursive;*/
+	font-size: 125px; 
+	text-align: center; 
+	color:#999;
+}
+.topMenu{
+	font-family: 'Oswald', sans-serif;
+	font-size:50px; 
+	color:#999; 
+	text-decoration:none;
+	list-style-type:none;
+	display: inline-block;
+	margin: 10px;
+}
+.photoDangerous{
+	height: 400px; 
+}
+a{
+	font-family: 'Oswald', sans-serif;
+	text-decoration: none;
+	color: #999;
+	padding: 0 10px;
+}
+footer{
+	text-align: center; 
+	font-family: 'Oswald', sans-serif;
+}
+
+
